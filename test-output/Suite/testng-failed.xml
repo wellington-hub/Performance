@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="tests">
+  <listeners>
+    <listener class-name="grid_paralelo.InvokedMethodListener"/>
+  </listeners>
+  <test thread-count="2" name="exemplos_paralelo._001CalcularPrecoPrazoEntregaCartaRegistrada(failed)" parallel="methods">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="exemplos_paralelo._001CalcularPrecoPrazoEntregaCartaRegistrada">
+        <methods>
+          <include name="_001_carta_registrada"/>
+        </methods>
+      </class> <!-- exemplos_paralelo._001CalcularPrecoPrazoEntregaCartaRegistrada -->
+    </classes>
+  </test> <!-- exemplos_paralelo._001CalcularPrecoPrazoEntregaCartaRegistrada(failed) -->
+  <test thread-count="2" name="exemplos_paralelo._002CalcularPrecoPrazoEntregaCartaSimples(failed)" parallel="methods">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="exemplos_paralelo._002CalcularPrecoPrazoEntregaCartaSimples">
+        <methods>
+          <include name="_002_carta_simples"/>
+        </methods>
+      </class> <!-- exemplos_paralelo._002CalcularPrecoPrazoEntregaCartaSimples -->
+    </classes>
+  </test> <!-- exemplos_paralelo._002CalcularPrecoPrazoEntregaCartaSimples(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Import-Package: org.apache.commons.logging
+Bundle-SymbolicName: org.apache.abdera
+Bundle-ManifestVersion: 2
+Bundle-Name: Abdera
+Bundle-Version: 3.0.0.v20110112_1859
+Bundle-ClassPath: abdera.client.0.3.0-incubating.jar,abdera.core.0.3.0
+ -incubating.jar,abdera.parser.0.3.0-incubating.jar,lib/abdera-i18n-0.
+ 3.0-incubating.jar,lib/axiom-api-1.2.5.jar,lib/axiom-impl-1.2.5.jar,l
+ ib/jaxen-1.1.1.jar,lib/geronimo-activation_1.0.2_spec-1.1.jar,lib/xlx
+ pScanner.jar,lib/xlxpScannerUtils.jar,lib/stax-api.jar
+Bundle-ActivationPolicy: lazy
+Bundle-Vendor: The Apache Software Foundation
+Export-Package: org.apache.abdera,org.apache.abdera.factory,org.apache
+ .abdera.filter,org.apache.abdera.i18n,org.apache.abdera.i18n.iri,org.
+ apache.abdera.model,org.apache.abdera.parser,org.apache.abdera.parser
+ .stax,org.apache.abdera.parser.stax.util,org.apache.abdera.util,org.a
+ pache.abdera.util.filter,org.apache.abdera.writer,org.apache.abdera.x
+ path
+
+

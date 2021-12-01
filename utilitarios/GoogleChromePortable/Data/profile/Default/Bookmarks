@@ -1,0 +1,285 @@
+{
+   "checksum": "ad54d9246fbeb7b79529142195317e70",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13124386533057640",
+               "id": "18",
+               "name": "Easy Imagemap Generator",
+               "type": "url",
+               "url": "http://imagemap-generator.dariodomi.de/"
+            }, {
+               "date_added": "13124386587674428",
+               "id": "19",
+               "name": "Rivalidade de argentinos é maior com ingleses e uruguaios do que com brasileiros — Rede Brasil Atual",
+               "type": "url",
+               "url": "http://www.redebrasilatual.com.br/politica/2014/06/rivalidade-de-argentinos-e-maior-com-ingleses-e-uruguaios-do-que-com-brasileiros-2740.html"
+            }, {
+               "date_added": "13124386604938443",
+               "id": "20",
+               "name": "Colour Contrast Check - snook.ca",
+               "type": "url",
+               "url": "https://snook.ca/technical/colour_contrast/colour.html#fg=33FF33,bg=333333"
+            } ],
+            "date_added": "13124386262996117",
+            "date_modified": "13124494246714507",
+            "id": "11",
+            "name": "Vários",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13124494246714507",
+               "id": "23",
+               "name": "Vertical menu for Bootstrap 3 - Jonathan Briehl",
+               "type": "url",
+               "url": "https://www.jonathanbriehl.com/2014/01/17/vertical-menu-for-bootstrap-3/"
+            }, {
+               "date_added": "13124494266178254",
+               "id": "24",
+               "name": "Bootstrap 3 Vertical Menu",
+               "type": "url",
+               "url": "http://code.jonathanbriehl.com/demos/bootstrap-vertical-menu/#"
+            }, {
+               "date_added": "13124494277474408",
+               "id": "25",
+               "name": "Bootstrap Snippet Vertical Affix Menu [CSS only] using HTML CSS Bootstrap | Bootsnipp.com",
+               "type": "url",
+               "url": "http://bootsnipp.com/snippets/featured/vertical-affix-menu-css-only"
+            }, {
+               "date_added": "13124494289674739",
+               "id": "26",
+               "name": "Bootstrap Snippet Responsive Sidebar Menu using HTML CSS jQuery | Bootsnipp.com",
+               "type": "url",
+               "url": "http://bootsnipp.com/snippets/featured/responsive-sidebar-menu"
+            }, {
+               "date_added": "13124494306539022",
+               "id": "27",
+               "name": "10+ Bootstrap Sidebar Menu Templates - DesignersLib.com",
+               "type": "url",
+               "url": "http://www.designerslib.com/bootstrap-sidebar-menu-templates/"
+            }, {
+               "date_added": "13124494316546849",
+               "id": "28",
+               "name": "Responsive Navigation Menu - Bootsnipp.com",
+               "type": "url",
+               "url": "http://bootsnipp.com/fullscreen/r1Pjd"
+            } ],
+            "date_added": "13124386272373288",
+            "date_modified": "13124494382612330",
+            "id": "12",
+            "name": "Tutoriais Menus",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13132962801732897",
+               "id": "41",
+               "name": "Do Zero a Herói Front-End (Parte I) | Felipe Fialho - Front-End Developer",
+               "type": "url",
+               "url": "http://www.felipefialho.com/blog/2016/do-zero-a-heroi-do-front-end-parte-1"
+            }, {
+               "date_added": "13132956566023233",
+               "id": "36",
+               "name": "Um comovente guia de estudo para desenvolvedores front end",
+               "type": "url",
+               "url": "https://leandrooriente.com/guia-de-estudo-front-end/"
+            }, {
+               "date_added": "13132956570847694",
+               "id": "38",
+               "name": "Como se tornar um dev front-end - Tableless",
+               "type": "url",
+               "url": "https://tableless.com.br/tornar-dev-front-end/"
+            }, {
+               "date_added": "13132956568111260",
+               "id": "37",
+               "name": "Como me tornar um Desenvolvedor Front End",
+               "type": "url",
+               "url": "https://leandrooriente.com/como-me-tornar-um-desenvolvedor-front-end/"
+            }, {
+               "date_added": "13132956563055563",
+               "id": "35",
+               "name": "Como se tornar um desenvolvedor Front End",
+               "type": "url",
+               "url": "https://willianjusten.com.br/como-se-tornar-um-desenvolvedor-front-end/"
+            }, {
+               "date_added": "13133307422690212",
+               "id": "45",
+               "name": "JavaScript Examples",
+               "type": "url",
+               "url": "https://www.w3schools.com/js/js_examples.asp"
+            }, {
+               "date_added": "13133307704863333",
+               "id": "47",
+               "name": "7# Coisas sobre o trabalho de Web Designer que você Precisa Saber - Chief of Design",
+               "type": "url",
+               "url": "http://chiefofdesign.com.br/sete-coisas-sobre-trabalhar-como-web-designer/"
+            }, {
+               "date_added": "13133307708255500",
+               "id": "48",
+               "name": "[Infográfico] O que todo Web Designer Precisa Saber – [Parte 01] - Conceitos de Web Design",
+               "type": "url",
+               "url": "http://chiefofdesign.com.br/o-que-todo-web-designer-precisa-saber-conceitos-de-web-design/"
+            }, {
+               "date_added": "13133307716607315",
+               "id": "49",
+               "name": "Descubra 7 importantes motivos para um Designer aprender HTML/CSS",
+               "type": "url",
+               "url": "http://chiefofdesign.com.br/descubra-7-importantes-motivos-para-um-designer-aprender-html-css/"
+            }, {
+               "date_added": "13133307734719331",
+               "id": "50",
+               "name": "Na mesa do Chief - Entrevista com o Pedro Panetto",
+               "type": "url",
+               "url": "http://chiefofdesign.com.br/na-mesa-do-chief-pedro-panetto/"
+            }, {
+               "date_added": "13133455278415498",
+               "id": "53",
+               "name": "Designers precisam mesmo saber programar? – Medium",
+               "type": "url",
+               "url": "https://medium.com/@Aerochimps/designers-precisam-saber-programar-7a264d109fac#.uref9xu79"
+            }, {
+               "date_added": "13134777054317711",
+               "id": "59",
+               "name": "Selectable | jQuery UI",
+               "type": "url",
+               "url": "https://jqueryui.com/selectable/"
+            }, {
+               "date_added": "13135896118773263",
+               "id": "68",
+               "name": "Bootstrap Live Customizer v3.3.7",
+               "type": "url",
+               "url": "http://bootstrap-live-customizer.com/"
+            }, {
+               "date_added": "13135900504494534",
+               "id": "69",
+               "name": "LESS « A Linguagem Dinâmica de Estilos",
+               "type": "url",
+               "url": "http://lesscss.loopinfinito.com.br/"
+            }, {
+               "date_added": "13135900507622549",
+               "id": "70",
+               "name": "SimpLESS - Your LESS CSS Compiler",
+               "type": "url",
+               "url": "https://wearekiss.com/simpless"
+            }, {
+               "date_added": "13135994243894202",
+               "id": "77",
+               "name": "CSS Compressor",
+               "type": "url",
+               "url": "http://csscompressor.com/"
+            }, {
+               "date_added": "13135990600084893",
+               "id": "73",
+               "name": "CSS on steroids - Tableless",
+               "type": "url",
+               "url": "https://tableless.com.br/css-steroids/"
+            }, {
+               "date_added": "13135990618404564",
+               "id": "74",
+               "name": "Sass vs. LESS vs. Stylus: Batalha dos Pré-processadores - Tableless",
+               "type": "url",
+               "url": "https://tableless.com.br/sass-vs-less-vs-stylus-batalha-dos-pre-processadores/"
+            }, {
+               "date_added": "13136308968612460",
+               "id": "80",
+               "name": "Learn LESS in 10 Minutes (or Less) | Tutorialzine",
+               "type": "url",
+               "url": "http://tutorialzine.com/2015/07/learn-less-in-10-minutes-or-less/"
+            }, {
+               "date_added": "13136592528574262",
+               "id": "83",
+               "name": "How to use any font you like with CSS3 | Webdesigner Depot",
+               "type": "url",
+               "url": "https://www.webdesignerdepot.com/2013/01/how-to-use-any-font-you-like-with-css3/"
+            }, {
+               "date_added": "13137093868831899",
+               "id": "86",
+               "name": "Tableless",
+               "type": "url",
+               "url": "https://tableless.com.br/front-end-ux-e-back-end/"
+            }, {
+               "date_added": "13140115639164933",
+               "id": "92",
+               "name": "How To Create a Parallax Scrolling Effect",
+               "type": "url",
+               "url": "https://www.w3schools.com/howto/howto_css_parallax.asp"
+            }, {
+               "date_added": "13140115644396789",
+               "id": "93",
+               "name": "https://www.w3schools.com/howto/tryhow_css_parallax_demo.htm",
+               "type": "url",
+               "url": "https://www.w3schools.com/howto/tryhow_css_parallax_demo.htm"
+            }, {
+               "date_added": "13140633804545670",
+               "id": "96",
+               "name": "Jornada do Dev | Cursos de programação 100% gratuitos",
+               "type": "url",
+               "url": "http://jornadadodev.com.br/"
+            } ],
+            "date_added": "13133306685373833",
+            "date_modified": "13140634678416124",
+            "id": "44",
+            "name": "Front End",
+            "type": "folder"
+         }, {
+            "date_added": "13135459322109134",
+            "id": "62",
+            "name": "GEARJ",
+            "type": "url",
+            "url": "http://unidades/sites/GEARJ/_layouts/15/start.aspx#/"
+         }, {
+            "date_added": "13139348610946366",
+            "id": "89",
+            "name": "Login WiFi",
+            "type": "url",
+            "url": "http://hotspot.caixa.gov.br:8080/sistema/login.xhtml"
+         }, {
+            "date_added": "13140634678416124",
+            "id": "97",
+            "name": "CAOS",
+            "type": "url",
+            "url": "https://www.gifugsp.hom.sp.caixa/caos/"
+         }, {
+            "date_added": "13135794709765617",
+            "id": "65",
+            "name": "SIOGP Teste",
+            "type": "url",
+            "url": "http://localhost:8090/primo/"
+         }, {
+            "date_added": "13140800200990866",
+            "id": "100",
+            "name": "IBC Teste",
+            "type": "url",
+            "url": "http://sinbc15.coresp.caixa/SIIBC"
+         }, {
+            "date_added": "13124385923977385",
+            "id": "10",
+            "name": "PRIMÖ",
+            "type": "url",
+            "url": "http://www.geradorprototipo.caixa.gov.br/primo/"
+         } ],
+         "date_added": "0",
+         "date_modified": "13140800237022683",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "0",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Outros favoritos",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13028788397005139",
+         "date_modified": "0",
+         "id": "4",
+         "name": "Favoritos de dispositivos móveis",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

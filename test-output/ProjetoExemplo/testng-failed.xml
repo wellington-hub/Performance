@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [ProjetoExemplo]">
+  <test thread-count="5" name="Firefox 52 - Windows(failed)">
+    <parameter name="browser" value="firefox52"/>
+    <parameter name="version" value="52"/>
+    <parameter name="platform" value="windows"/>
+    <classes>
+      <class name="exemplos._001CalcularPrecoPrazoEntregaCartaRegistrada">
+        <methods>
+          <include name="testar001"/>
+          <include name="defineBrowser"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- exemplos._001CalcularPrecoPrazoEntregaCartaRegistrada -->
+      <class name="exemplos._002CalcularPrecoPrazoEntregaCartaSimples">
+        <methods>
+          <include name="testar002"/>
+          <include name="defineBrowser"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- exemplos._002CalcularPrecoPrazoEntregaCartaSimples -->
+    </classes>
+  </test> <!-- Firefox 52 - Windows(failed) -->
+</suite> <!-- Failed suite [ProjetoExemplo] -->

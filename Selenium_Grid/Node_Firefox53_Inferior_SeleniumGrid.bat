@@ -1,0 +1,1 @@
+CALL java -Dwebdriver.gecko.driver="C:\workspace_ftor_testng_servidor3\ProjetoExemplo\utilitarios\drivers\geckodriver_018.exe" -jar C:\workspace_ftor_testng_servidor3\ProjetoExemplo\utilitarios\libs\selenium-server-standalone-3.4.0.jar -port 5557 -role node -hub http://10.139.18.20:4444/grid/register -browser "browserName=firefox, maxInstances=5, platform=WINDOWS"

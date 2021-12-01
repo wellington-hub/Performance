@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: com.ibm.rqm.integration.client;singleton:=true
+Bundle-ManifestVersion: 2
+Bundle-Name: Integration Framework Client Plug-in
+Bundle-Version: 6.0.200.v20160302_0208
+Bundle-ClassPath: lib/commons-httpclient-3.0.jar,lib/commons-lang3-3.0
+ .1.jar,lib/org.apache.commons.logging_1.0.4.v20080605-1930.jar,integr
+ ation.client.jar,lib/httpclient-4.5.1.jar,lib/httpcore-4.4.3.jar,lib/
+ httpclient-win-4.5.1.jar,lib/commons-codec-1.9.jar,lib/jna-4.1.0.jar,
+ lib/jna-platform-4.1.0.jar,lib/httpmime-4.5.1.jar
+Bundle-ActivationPolicy: lazy
+Bundle-Vendor: IBM
+Export-Package: com.ibm.rqm.integration.client.clientlib
+
+

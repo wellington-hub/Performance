@@ -3,6 +3,7 @@ package ftor_testng;
 import exemplos._001CalcularPrecoPrazoEntregaCartaRegistrada;
 import exemplos._002CalcularPrecoPrazoEntregaCartaSimples;
 import exemplos._003CompraDebitoAutomaticoVeja;
+import exemplos._004CompraBoletoBancarioVeja;
 import exemplos._005LoginOrgBlockFechadoWEB;
 
 /***************************************************************************************
@@ -23,6 +24,7 @@ public class ConfigureExecution {
 	static _001CalcularPrecoPrazoEntregaCartaRegistrada ct001 = new _001CalcularPrecoPrazoEntregaCartaRegistrada();
 	static _002CalcularPrecoPrazoEntregaCartaSimples ct002 = new _002CalcularPrecoPrazoEntregaCartaSimples();
 	static _003CompraDebitoAutomaticoVeja ct003 = new _003CompraDebitoAutomaticoVeja();
+	static _004CompraBoletoBancarioVeja ct004 = new _004CompraBoletoBancarioVeja();
 	static _005LoginOrgBlockFechadoWEB ct005 = new _005LoginOrgBlockFechadoWEB();
 	
 
@@ -75,6 +77,22 @@ public class ConfigureExecution {
 
 			try {
 				reportlog.apontarRelatorioHtml("_003CompraDebitoAutomaticoVeja ");
+				processarCasosTeste(idCaso);
+			} catch (final Exception e) {
+
+				throw new Exception();
+			}
+
+			break;
+			
+		case "004":
+
+			cCaso = idCaso;
+
+			DataDriven.lerCSV();
+
+			try {
+				reportlog.apontarRelatorioHtml("_004CompraBoletoBancarioVeja");
 				processarCasosTeste(idCaso);
 			} catch (final Exception e) {
 
@@ -181,7 +199,28 @@ public class ConfigureExecution {
 
 			break;
 			
-			
+		case "004":
+
+			// Verificação do id do caso
+			nLin2 = DataDriven.aLinha.size() - 1;
+
+			for (nLin = 1; nLin <= nLin2; nLin++)
+
+			{
+				if (cCaso.equalsIgnoreCase(DataDriven.aidCaso.get(nLin))) {
+					DataDriven.nLin = nLin;
+					DataDriven.nLin2 = nLin2;
+
+					DataDriven.lerRegistro();
+
+					// CHAMA MÉTODO DE TESTE
+					ReportLog.iniciarGravacaoVideoExecucaoCasoTeste();
+					ct004.test004CompraBoletoBancarioVeja();
+					break;
+				}
+			}
+
+			break;		
 			
 		case "005":
 

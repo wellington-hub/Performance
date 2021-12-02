@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="ProjetoExemplo" verbose="1">
+    <!-- <test name="Firefox Portable - Windows">
+		<parameter name="browser" value="firefox-portable" />
+		<parameter name="platform" value="windows" />
+		<parameter name="version" value="44" />
+		<classes>
+		    <class name="exemplos._001CalcularPrecoPrazoEntregaCartaRegistrada" />
+			 <class name="exemplos._002CalcularPrecoPrazoEntregaCartaSimples" /> 
+			<class name="exemplos._003CalcularPrecoPrazoEntregaImpressoNormal" /> 
+			<class name="exemplos._004CalcularPrecoPrazoEntregaPAC" />
+			<class name="exemplos._005CalcularPrecoPrazoEntregaCartaViaInternet" /> 
+		</classes>
+	</test>-->
+	  <!--<test name="Firefox 52 - Windows">
+		<parameter name="browser" value="firefox52" />
+		<parameter name="platform" value="windows" />
+		<parameter name="version" value="52" />
+		<classes>
+			<class name="exemplos._001CalcularPrecoPrazoEntregaCartaRegistrada" />
+			<class name="exemplos._002CalcularPrecoPrazoEntregaCartaSimples" />
+		    </classes>
+	</test>-->
+	<!--<test name="Firefox 57 - Windows">
+		<parameter name="browser" value="firefox57" />
+		<parameter name="platform" value="windows" />
+		<parameter name="version" value="57" />
+		<classes>
+			<class name="exemplos._001CalcularPrecoPrazoEntregaCartaRegistrada" />
+			<class name="exemplos._002CalcularPrecoPrazoEntregaCartaSimples" />
+			<class name="exemplos._003CalcularPrecoPrazoEntregaImpressoNormal" />
+			<class name="exemplos._004CalcularPrecoPrazoEntregaPAC" />
+			<class name="exemplos._005CalcularPrecoPrazoEntregaCartaViaInternet" />
+		</classes>
+	</test>-->
+	<!-- <test name="Chrome 54 - Windows">
+		<parameter name="browser" value="chrome54" />
+		<parameter name="platform" value="windows" />
+		<parameter name="version" value="54" />
+		<classes>
+			<class name="exemplos._001CalcularPrecoPrazoEntregaCartaRegistrada" />
+			<class name="exemplos._002CalcularPrecoPrazoEntregaCartaSimples" />
+			<class name="exemplos._003CalcularPrecoPrazoEntregaImpressoNormal" />
+			<class name="exemplos._004CalcularPrecoPrazoEntregaPAC" />
+			<class name="exemplos._005CalcularPrecoPrazoEntregaCartaViaInternet" />
+		</classes>
+	</test> -->
+	  <test name="Chrome 70 - Windows">
+		<parameter name="browser" value="chrome70" />
+		<parameter name="platform" value="windows" />
+		<parameter name="version" value="70" />
+		<classes>
+			<class name="exemplos._001CalcularPrecoPrazoEntregaCartaRegistrada" />
+			<class name="exemplos._002CalcularPrecoPrazoEntregaCartaSimples" />
+			<class name="exemplos._003CompraDAVeja" />
+			<class name="exemplos._004CompraBCVeja" />
+			<class name="exemplos._005LoginOrgBlockFechadoWEB" />
+			
+			<class name="exemplos._005CalcularPrecoPrazoEntregaCartaViaInternet" />
+			
+		</classes>
+	</test> 
+	<!--<test name="Internet Explorer 11 - Windows">
+		<parameter name="browser" value="ie11" />
+		<parameter name="platform" value="windows" />
+		<parameter name="version" value="11" />
+		<classes>
+			<class name="exemplos._001CalcularPrecoPrazoEntregaCartaRegistrada" />
+			<class name="exemplos._002CalcularPrecoPrazoEntregaCartaSimples" />
+			<class name="exemplos._003CalcularPrecoPrazoEntregaImpressoNormal" />
+			<class name="exemplos._004CalcularPrecoPrazoEntregaPAC" />
+			<class name="exemplos._005CalcularPrecoPrazoEntregaCartaViaInternet" /> 
+		</classes>
+	</test>-->
+	<!-- <test name="Edge 17 - Windows">
+		<parameter name="browser" value="edge17" />
+		<parameter name="platform" value="windows" />
+		<parameter name="version" value="17" />
+		<classes>
+			<class name="exemplos._001CalcularPrecoPrazoEntregaCartaRegistrada" />
+			<class name="exemplos._002CalcularPrecoPrazoEntregaCartaSimples" />
+			<class name="exemplos._003CalcularPrecoPrazoEntregaImpressoNormal" />
+			<class name="exemplos._004CalcularPrecoPrazoEntregaPAC" />
+			<class name="exemplos._005CalcularPrecoPrazoEntregaCartaViaInternet" />
+		</classes>
+	</test> -->
+	<!-- <test name="PhantomJS 2.11 - Windows">
+		<parameter name="browser" value="phantomjs-2.11" />
+		<parameter name="platform" value="windows" />
+		<parameter name="version" value="2.11" />
+		<classes>
+			<class name="exemplos._001CalcularPrecoPrazoEntregaCartaRegistrada" />
+			<class name="exemplos._002CalcularPrecoPrazoEntregaCartaSimples" />
+			<class name="exemplos._003CalcularPrecoPrazoEntregaImpressoNormal" />
+			<class name="exemplos._004CalcularPrecoPrazoEntregaPAC" />
+			<class name="exemplos._005CalcularPrecoPrazoEntregaCartaViaInternet" />
+		</classes>
+	</test> -->
+	<!--<test name="Chrome Headless - Windows">
+		<parameter name="browser" value="chrome70-headless" />
+		<parameter name="platform" value="windows" />
+		<parameter name="version" value="70" />
+		<classes>
+			<class name="exemplos._001CalcularPrecoPrazoEntregaCartaRegistrada" />
+			<class name="exemplos._002CalcularPrecoPrazoEntregaCartaSimples" />
+			<class name="exemplos._003CalcularPrecoPrazoEntregaImpressoNormal" />
+			<class name="exemplos._004CalcularPrecoPrazoEntregaPAC" />
+			<class name="exemplos._005CalcularPrecoPrazoEntregaCartaViaInternet" /> 
+		</classes>
+	</test> -->
+	<!-- <test name="Chrome Portable - Windows">
+		<parameter name="browser" value="chrome-portable" />
+		<parameter name="platform" value="windows" />
+		<parameter name="version" value="70" />
+		<classes>
+			<class name="exemplos._001CalcularPrecoPrazoEntregaCartaRegistrada" />
+			<class name="exemplos._002CalcularPrecoPrazoEntregaCartaSimples" />
+			<class name="exemplos._003CalcularPrecoPrazoEntregaImpressoNormal" />
+			<class name="exemplos._004CalcularPrecoPrazoEntregaPAC" />
+			<class name="exemplos._005CalcularPrecoPrazoEntregaCartaViaInternet" />
+		</classes>
+	</test> -->
+</suite>

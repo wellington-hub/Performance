@@ -54,6 +54,7 @@
 			<class name="exemplos._001CalcularPrecoPrazoEntregaCartaRegistrada" />
 			<class name="exemplos._002CalcularPrecoPrazoEntregaCartaSimples" />
 			<class name="exemplos._003CompraDAVeja" />
+			<class name="exemplos._004CompraBCVeja" />
 			<class name="exemplos._005LoginOrgBlockFechadoWEB" />
 			
 			<class name="exemplos._005CalcularPrecoPrazoEntregaCartaViaInternet" />

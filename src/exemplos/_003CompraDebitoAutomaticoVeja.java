@@ -1,5 +1,5 @@
 /****
- * * Script Name	 : <b> Script Teste de compra (Monitoramento em Produção) </b>
+ * * Script Name	 : <b> Script Teste de compra Debito automatico (Monitoramento em Produção) </b>
  * Generated	 : <b>30/11/2021 07:00</b>
  * Description	 : Functional Test Script
  * Original Host : Win7 version xx Build xxx (s)
@@ -9,7 +9,7 @@
  * 
  * 
  *  Eu como PO
- *  Quero validar a compra através de débito bancário no checkout dos sites da Abril.
+ *  Quero validar a compra através de débito automatico no checkout dos sites da Abril.
  *  Para garantir que o processo de vendas esta funcionando normalmente
 
  *  Notas
@@ -29,7 +29,6 @@
 package exemplos;
 
 import org.testng.annotations.Test;
-
 import ftor_testng.AbrilUtils;
 import ftor_testng.ConfigureExecution;
 
@@ -45,9 +44,7 @@ public class _003CompraDebitoAutomaticoVeja extends AbrilUtils {
 	// Método de Teste
 	public void test003CompraDebitoAutomaticoVeja() throws Exception {
 
-		/**********************
-		 * Teste
-		 ********************/
+		
 		/**********************
 		 * Teste
 		 ********************/

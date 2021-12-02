@@ -28,9 +28,7 @@ public class _005LoginOrgBlockFechadoWEB extends AbrilUtils {
 	// Método de Teste
 	public void test005LoginOrgBlockFechadoWEB() throws Exception {
 
-		/**********************
-		 * Teste
-		 ********************/
+		
 		/**********************
 		 * Teste
 		 ********************/

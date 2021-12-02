@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="69311" started-at="2021-12-01T20:14:51Z" finished-at="2021-12-01T20:16:00Z">
+  <suite name="Default suite" duration-ms="78212" started-at="2021-12-02T17:57:16Z" finished-at="2021-12-02T17:58:34Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="69311" started-at="2021-12-01T20:14:51Z" finished-at="2021-12-01T20:16:00Z">
-      <class name="exemplos._003CompraDebitoAutomaticoVeja">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:exemplos._003CompraDebitoAutomaticoVeja@42e26948]" name="setUp" is-config="true" duration-ms="5756" started-at="2021-12-01T17:14:51Z" finished-at="2021-12-01T17:14:57Z">
+    <test name="Default test" duration-ms="78212" started-at="2021-12-02T17:57:16Z" finished-at="2021-12-02T17:58:34Z">
+      <class name="exemplos._004CompraBoletoBancarioVeja">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:exemplos._004CompraBoletoBancarioVeja@7823a2f9]" name="setUp" is-config="true" duration-ms="22993" started-at="2021-12-02T14:57:16Z" finished-at="2021-12-02T14:57:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testar003()[pri:0, instance:exemplos._003CompraDebitoAutomaticoVeja@42e26948]" name="testar003" duration-ms="61215" started-at="2021-12-01T17:14:57Z" finished-at="2021-12-01T17:15:58Z">
+        <test-method status="PASS" signature="testar004()[pri:0, instance:exemplos._004CompraBoletoBancarioVeja@7823a2f9]" name="testar004" duration-ms="52807" started-at="2021-12-02T14:57:39Z" finished-at="2021-12-02T14:58:32Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testar003 -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:exemplos._003CompraDebitoAutomaticoVeja@42e26948]" name="tearDown" is-config="true" duration-ms="2300" started-at="2021-12-01T17:15:58Z" finished-at="2021-12-01T17:16:00Z">
+        </test-method> <!-- testar004 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:exemplos._004CompraBoletoBancarioVeja@7823a2f9]" name="tearDown" is-config="true" duration-ms="2352" started-at="2021-12-02T14:58:32Z" finished-at="2021-12-02T14:58:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- exemplos._003CompraDebitoAutomaticoVeja -->
+      </class> <!-- exemplos._004CompraBoletoBancarioVeja -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

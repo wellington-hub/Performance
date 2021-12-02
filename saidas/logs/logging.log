@@ -81,3 +81,26 @@
 2021-11-30 18:44:26 ERROR _003CompraDebitoAutomaticoVeja:57 - Timeout por aguardar pela presença do elemento By.id: janelaDC por 30 segundos
 2021-11-30 18:44:26 INFO  _003CompraDebitoAutomaticoVeja:58 - ***** End LOG4J *****
 
+2021-12-02 14:50:32 INFO  ReportLog:115 - ***** Start LOG4J *****
+2021-12-02 14:50:32 INFO  ReportLog:120 - Caso de Teste: _005LoginOrgBlockFechadoWEB  |   Colaborador: A515360  |   Browser: chrome  |   Versão: 96.0.4664.45  |   S.O: Windows 7
+2021-12-02 14:51:13 INFO  _005LoginOrgBlockFechadoWEB:48 - Acessa a URL https://veja.abril.com.br/esporte/denarc-tem-as-fitas-contra-edinho/
+2021-12-02 14:51:38 INFO  _005LoginOrgBlockFechadoWEB:48 - Realiza a ação 'Mouse Scroll' de cima para baixo na página
+2021-12-02 14:51:40 INFO  _005LoginOrgBlockFechadoWEB:48 - Valida que o texto Se já é assinante, entre aqui. esteja presente no elemento By.xpath: //*[@id='injected-paywall_info']/a
+2021-12-02 14:51:47 INFO  _005LoginOrgBlockFechadoWEB:48 - Clica no elemento Entre aqui.
+2021-12-02 14:51:50 INFO  _005LoginOrgBlockFechadoWEB:48 - Preenche o campo de texto Usuario com o valor thais.rocha@abril.com.br 
+2021-12-02 14:51:52 INFO  _005LoginOrgBlockFechadoWEB:48 - Preenche o campo de texto Senha com o valor 36924337864
+2021-12-02 14:52:53 ERROR _005LoginOrgBlockFechadoWEB:57 - Timeout por aguardar pela presença do elemento By.id: aceitoLGPD por 60 segundos
+2021-12-02 14:52:53 INFO  _005LoginOrgBlockFechadoWEB:58 - ***** End LOG4J *****
+
+2021-12-02 14:52:57 ERROR _005LoginOrgBlockFechadoWEB:57 - Não foi possível clicar no elemento By.id: aceitoLGPD
+2021-12-02 14:52:57 INFO  _005LoginOrgBlockFechadoWEB:58 - ***** End LOG4J *****
+
+2021-12-02 14:57:40 INFO  ReportLog:115 - ***** Start LOG4J *****
+2021-12-02 14:57:40 INFO  ReportLog:120 - Caso de Teste: _004CompraBoletoBancarioVeja  |   Colaborador: A515360  |   Browser: chrome  |   Versão: 96.0.4664.45  |   S.O: Windows 7
+2021-12-02 14:57:49 INFO  _004CompraBoletoBancarioVeja:48 - Acessa a URL https://veja.abril.com.br//
+2021-12-02 14:57:51 INFO  _004CompraBoletoBancarioVeja:48 - Clica no elemento Aceito Cookies
+2021-12-02 14:57:51 INFO  _004CompraBoletoBancarioVeja:48 - Realiza a ação 'Mouse Scroll' de cima para baixo na página
+2021-12-02 14:58:15 INFO  _004CompraBoletoBancarioVeja:48 - Preenche o campo de texto Iserir Nome Completo com o valor Wellington Tester
+2021-12-02 14:58:18 INFO  _004CompraBoletoBancarioVeja:48 - Preenche o campo de texto Inserir Email com o valor tester@abril.com.br
+2021-12-02 14:58:28 INFO  _004CompraBoletoBancarioVeja:127 - ***** End LOG4J *****
+

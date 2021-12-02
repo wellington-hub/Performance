@@ -423,7 +423,14 @@ public class AbrilUtils extends Utils {
 
 	// Pagamento Boleto bancario
 	public void EscolhaBoleto() throws Exception {
-
+		driver.findElement(By.xpath("//fieldset[@id='pagamento']/ul/li[3]/p")).click();
+		pausar(2000);
+		driver.findElement(By.id("pagamento_boleto_bancario_cpf_cnpj")).sendKeys("476.794.400-77");
+		//escreverTexto((By.id("pagamento_debito_conta_cpf_cnpj")), DataDriven.pagamentodebitocontacpfcnpj, "Cpf Cnpj");
+		pausar(2000);
+		
+		//iserir CPF
+		
 	}
 
 	// Fechar Compra
@@ -431,7 +438,7 @@ public class AbrilUtils extends Utils {
 		aguardarPorElemento(By.id("validar_formulario"));
 		pausar(2000);
 		clicarElemento(By.xpath("//*[@id='validar_formulario']/div[3]/fieldset/button"), "Fechar compra");
-		pausar(2000);
+		pausar(4000);
 	}
 
 	// Validações

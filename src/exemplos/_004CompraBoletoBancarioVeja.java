@@ -54,9 +54,8 @@ public class _004CompraBoletoBancarioVeja extends AbrilUtils {
 		Assine();
 		EscolhaPlano();// default Anual
 		DadosIdentificaçao();
-		//EscolhaDebitoConta();
-		//PreencheDebitoConta();
-		//FecharCompra();
+		EscolhaBoleto();		
+		FecharCompra();
 
 		// validação //
 

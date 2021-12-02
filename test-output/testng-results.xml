@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="78212" started-at="2021-12-02T17:57:16Z" finished-at="2021-12-02T17:58:34Z">
+  <suite name="Default suite" duration-ms="76250" started-at="2021-12-02T18:27:45Z" finished-at="2021-12-02T18:29:01Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="78212" started-at="2021-12-02T17:57:16Z" finished-at="2021-12-02T17:58:34Z">
+    <test name="Default test" duration-ms="76250" started-at="2021-12-02T18:27:45Z" finished-at="2021-12-02T18:29:01Z">
       <class name="exemplos._004CompraBoletoBancarioVeja">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:exemplos._004CompraBoletoBancarioVeja@7823a2f9]" name="setUp" is-config="true" duration-ms="22993" started-at="2021-12-02T14:57:16Z" finished-at="2021-12-02T14:57:39Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:exemplos._004CompraBoletoBancarioVeja@7823a2f9]" name="setUp" is-config="true" duration-ms="5516" started-at="2021-12-02T15:27:45Z" finished-at="2021-12-02T15:27:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testar004()[pri:0, instance:exemplos._004CompraBoletoBancarioVeja@7823a2f9]" name="testar004" duration-ms="52807" started-at="2021-12-02T14:57:39Z" finished-at="2021-12-02T14:58:32Z">
+        <test-method status="PASS" signature="testar004()[pri:0, instance:exemplos._004CompraBoletoBancarioVeja@7823a2f9]" name="testar004" duration-ms="68255" started-at="2021-12-02T15:27:50Z" finished-at="2021-12-02T15:28:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testar004 -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:exemplos._004CompraBoletoBancarioVeja@7823a2f9]" name="tearDown" is-config="true" duration-ms="2352" started-at="2021-12-02T14:58:32Z" finished-at="2021-12-02T14:58:34Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:exemplos._004CompraBoletoBancarioVeja@7823a2f9]" name="tearDown" is-config="true" duration-ms="2377" started-at="2021-12-02T15:28:58Z" finished-at="2021-12-02T15:29:01Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

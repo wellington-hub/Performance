@@ -104,3 +104,39 @@
 2021-12-02 14:58:18 INFO  _004CompraBoletoBancarioVeja:48 - Preenche o campo de texto Inserir Email com o valor tester@abril.com.br
 2021-12-02 14:58:28 INFO  _004CompraBoletoBancarioVeja:127 - ***** End LOG4J *****
 
+2021-12-02 15:10:27 INFO  ReportLog:115 - ***** Start LOG4J *****
+2021-12-02 15:10:27 INFO  ReportLog:120 - Caso de Teste: _004CompraBoletoBancarioVeja  |   Colaborador: A515360  |   Browser: chrome  |   Versão: 96.0.4664.45  |   S.O: Windows 7
+2021-12-02 15:10:33 INFO  _004CompraBoletoBancarioVeja:48 - Acessa a URL https://veja.abril.com.br//
+2021-12-02 15:10:35 INFO  _004CompraBoletoBancarioVeja:48 - Clica no elemento Aceito Cookies
+2021-12-02 15:10:35 INFO  _004CompraBoletoBancarioVeja:48 - Realiza a ação 'Mouse Scroll' de cima para baixo na página
+2021-12-02 15:11:04 INFO  _004CompraBoletoBancarioVeja:48 - Preenche o campo de texto Iserir Nome Completo com o valor Wellington Tester
+2021-12-02 15:11:07 INFO  _004CompraBoletoBancarioVeja:48 - Preenche o campo de texto Inserir Email com o valor tester@abril.com.br
+2021-12-02 15:11:17 INFO  _004CompraBoletoBancarioVeja:127 - ***** End LOG4J *****
+
+2021-12-02 15:19:47 INFO  ReportLog:115 - ***** Start LOG4J *****
+2021-12-02 15:19:47 INFO  ReportLog:120 - Caso de Teste: _004CompraBoletoBancarioVeja  |   Colaborador: A515360  |   Browser: chrome  |   Versão: 96.0.4664.45  |   S.O: Windows 7
+2021-12-02 15:19:51 INFO  _004CompraBoletoBancarioVeja:48 - Acessa a URL https://veja.abril.com.br//
+2021-12-02 15:19:54 INFO  _004CompraBoletoBancarioVeja:48 - Clica no elemento Aceito Cookies
+2021-12-02 15:19:54 INFO  _004CompraBoletoBancarioVeja:48 - Realiza a ação 'Mouse Scroll' de cima para baixo na página
+2021-12-02 15:20:18 INFO  _004CompraBoletoBancarioVeja:48 - Preenche o campo de texto Iserir Nome Completo com o valor Wellington Tester
+2021-12-02 15:20:20 INFO  _004CompraBoletoBancarioVeja:48 - Preenche o campo de texto Inserir Email com o valor tester@abril.com.br
+2021-12-02 15:22:05 INFO  ReportLog:115 - ***** Start LOG4J *****
+2021-12-02 15:22:05 INFO  ReportLog:120 - Caso de Teste: _004CompraBoletoBancarioVeja  |   Colaborador: A515360  |   Browser: chrome  |   Versão: 96.0.4664.45  |   S.O: Windows 7
+2021-12-02 15:22:09 INFO  _004CompraBoletoBancarioVeja:48 - Acessa a URL https://veja.abril.com.br//
+2021-12-02 15:22:12 INFO  _004CompraBoletoBancarioVeja:48 - Clica no elemento Aceito Cookies
+2021-12-02 15:22:12 INFO  _004CompraBoletoBancarioVeja:48 - Realiza a ação 'Mouse Scroll' de cima para baixo na página
+2021-12-02 15:22:33 INFO  _004CompraBoletoBancarioVeja:48 - Preenche o campo de texto Iserir Nome Completo com o valor Wellington Tester
+2021-12-02 15:22:35 INFO  _004CompraBoletoBancarioVeja:48 - Preenche o campo de texto Inserir Email com o valor tester@abril.com.br
+2021-12-02 15:22:52 INFO  _004CompraBoletoBancarioVeja:48 - Clica no elemento Fechar compra
+2021-12-02 15:22:54 INFO  _004CompraBoletoBancarioVeja:127 - ***** End LOG4J *****
+
+2021-12-02 15:27:50 INFO  ReportLog:115 - ***** Start LOG4J *****
+2021-12-02 15:27:50 INFO  ReportLog:120 - Caso de Teste: _004CompraBoletoBancarioVeja  |   Colaborador: A515360  |   Browser: chrome  |   Versão: 96.0.4664.45  |   S.O: Windows 7
+2021-12-02 15:27:56 INFO  _004CompraBoletoBancarioVeja:48 - Acessa a URL https://veja.abril.com.br//
+2021-12-02 15:27:59 INFO  _004CompraBoletoBancarioVeja:48 - Clica no elemento Aceito Cookies
+2021-12-02 15:27:59 INFO  _004CompraBoletoBancarioVeja:48 - Realiza a ação 'Mouse Scroll' de cima para baixo na página
+2021-12-02 15:28:28 INFO  _004CompraBoletoBancarioVeja:48 - Preenche o campo de texto Iserir Nome Completo com o valor Wellington Tester
+2021-12-02 15:28:31 INFO  _004CompraBoletoBancarioVeja:48 - Preenche o campo de texto Inserir Email com o valor tester@abril.com.br
+2021-12-02 15:28:48 INFO  _004CompraBoletoBancarioVeja:48 - Clica no elemento Fechar compra
+2021-12-02 15:28:52 INFO  _004CompraBoletoBancarioVeja:127 - ***** End LOG4J *****
+

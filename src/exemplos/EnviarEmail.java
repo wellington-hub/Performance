@@ -36,7 +36,7 @@ import com.relevantcodes.extentreports.LogStatus;
 
 import ftor_testng.ReportLog;
 
-public class _006EnviarEmail extends ReportLog{
+public class EnviarEmail extends ReportLog{
 	
 	public static void main(String[] args) {
 		

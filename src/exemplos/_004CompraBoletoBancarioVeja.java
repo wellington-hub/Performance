@@ -30,6 +30,8 @@ package exemplos;
 import org.testng.annotations.Test;
 import ftor_testng.AbrilUtils;
 import ftor_testng.ConfigureExecution;
+import org.openqa.selenium.interactions.Interactive; 
+import org.openqa.selenium.interactions.Sequence;
 
 
 public class _004CompraBoletoBancarioVeja extends AbrilUtils {

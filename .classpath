@@ -11,16 +11,16 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
 		<attributes>
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Desenv/Projetos/BKP/workspace_ftor_testng_servidor3/ProjetoExemplo/utilitarios/libs/ATUTestRecorder_2.1.jar"/>
-	<classpathentry kind="lib" path="C:/Desenv/Projetos/BKP/workspace_ftor_testng_servidor3/ProjetoExemplo/utilitarios/libs/client-combined-3.4.0-nodeps.jar"/>
-	<classpathentry kind="lib" path="C:/Desenv/Projetos/BKP/workspace_ftor_testng_servidor3/ProjetoExemplo/utilitarios/libs/com.ibm.rqm.adapter.commandline_6.0.200.v20160302_0208.jar"/>
-	<classpathentry kind="lib" path="C:/Desenv/Projetos/BKP/workspace_ftor_testng_servidor3/ProjetoExemplo/utilitarios/libs/com.ibm.rqm.adapter.library_6.0.200.v20160302_0208.jar"/>
+	<classpathentry kind="lib" path="C:/Desenv/Projetos/Squad Performance TestNg/Performance/ProjetoPerformance/ProjetoGrupoAbril/utilitarios/libs/ATUTestRecorder_2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Desenv/Projetos/Squad Performance TestNg/Performance/ProjetoPerformance/ProjetoGrupoAbril/utilitarios/libs/client-combined-3.4.0-nodeps.jar"/>
+	<classpathentry kind="lib" path="C:/Desenv/Projetos/Squad Performance TestNg/Performance/ProjetoPerformance/ProjetoGrupoAbril/utilitarios/libs/com.ibm.rqm.adapter.commandline_6.0.200.v20160302_0208.jar"/>
+	<classpathentry kind="lib" path="C:/Desenv/Projetos/Squad Performance TestNg/Performance/ProjetoPerformance/ProjetoGrupoAbril/utilitarios/libs/com.ibm.rqm.adapter.library_6.0.200.v20160302_0208.jar"/>
+	<classpathentry kind="lib" path="C:/Desenv/Projetos/Squad Performance TestNg/Performance/ProjetoPerformance/ProjetoGrupoAbril/utilitarios/libs/log4j-1.2.17.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

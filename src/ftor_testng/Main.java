@@ -17,7 +17,7 @@ public class Main {
 		}
 // testes para sair no console via cmd,  C:\workspace_ftor_testng_servidor3>java -jar SIFPP.jar
 		// resultado = TEstye java
-		 System.out.println("TEstye java");
+		 System.out.println("Teste java");
 	}
 	
 }

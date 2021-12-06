@@ -3,6 +3,7 @@
 	<name>ProjetoGrupoAbril</name>
 	<comment></comment>
 	<projects>
+		<project>RemoteSystemsTempFiles</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>

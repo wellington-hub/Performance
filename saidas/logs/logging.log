@@ -140,3 +140,67 @@
 2021-12-02 15:28:48 INFO  _004CompraBoletoBancarioVeja:48 - Clica no elemento Fechar compra
 2021-12-02 15:28:52 INFO  _004CompraBoletoBancarioVeja:127 - ***** End LOG4J *****
 
+2021-12-06 11:35:34 INFO  ReportLog:115 - ***** Start LOG4J *****
+2021-12-06 11:35:34 INFO  ReportLog:120 - Caso de Teste: _003CompraDebitoAutomaticoVeja   |   Colaborador: A515360  |   Browser: chrome  |   Versão: 96.0.4664.45  |   S.O: Windows 7
+2021-12-06 11:50:21 INFO  ReportLog:115 - ***** Start LOG4J *****
+2021-12-06 11:50:21 INFO  ReportLog:120 - Caso de Teste: _003CompraDebitoAutomaticoVeja   |   Colaborador: A515360  |   Browser: chrome  |   Versão: 96.0.4664.45  |   S.O: Windows 7
+2021-12-06 11:50:26 INFO  _003CompraDebitoAutomaticoVeja:48 - Acessa a URL https://veja.abril.com.br//
+2021-12-06 11:50:29 INFO  _003CompraDebitoAutomaticoVeja:48 - Clica no elemento Aceito Cookies
+2021-12-06 11:50:29 INFO  _003CompraDebitoAutomaticoVeja:48 - Realiza a ação 'Mouse Scroll' de cima para baixo na página
+2021-12-06 11:50:55 INFO  _003CompraDebitoAutomaticoVeja:48 - Preenche o campo de texto Iserir Nome Completo com o valor Wellington Tester
+2021-12-06 11:50:57 INFO  _003CompraDebitoAutomaticoVeja:48 - Preenche o campo de texto Inserir Email com o valor tester@abril.com.br
+2021-12-06 11:52:08 ERROR _003CompraDebitoAutomaticoVeja:57 - Timeout por aguardar pela presença do elemento By.id: pagamento_debito_conta_nome por 60 segundos
+2021-12-06 11:52:08 INFO  _003CompraDebitoAutomaticoVeja:58 - ***** End LOG4J *****
+
+2021-12-06 11:52:10 ERROR _003CompraDebitoAutomaticoVeja:57 - Não foi possível preencher o campo de texto By.id: pagamento_debito_conta_nome
+2021-12-06 11:52:10 INFO  _003CompraDebitoAutomaticoVeja:58 - ***** End LOG4J *****
+
+2021-12-06 11:52:21 INFO  ReportLog:115 - ***** Start LOG4J *****
+2021-12-06 11:52:21 INFO  ReportLog:120 - Caso de Teste: _004CompraBoletoBancarioVeja  |   Colaborador: A515360  |   Browser: chrome  |   Versão: 96.0.4664.45  |   S.O: Windows 7
+2021-12-06 11:52:26 INFO  _004CompraBoletoBancarioVeja:48 - Acessa a URL https://veja.abril.com.br//
+2021-12-06 11:52:29 INFO  _004CompraBoletoBancarioVeja:48 - Clica no elemento Aceito Cookies
+2021-12-06 11:52:29 INFO  _004CompraBoletoBancarioVeja:48 - Realiza a ação 'Mouse Scroll' de cima para baixo na página
+2021-12-06 11:52:56 INFO  _004CompraBoletoBancarioVeja:48 - Preenche o campo de texto Iserir Nome Completo com o valor Wellington Tester
+2021-12-06 11:53:00 INFO  _004CompraBoletoBancarioVeja:48 - Preenche o campo de texto Inserir Email com o valor tester@abril.com.br
+2021-12-06 11:53:17 INFO  _004CompraBoletoBancarioVeja:48 - Clica no elemento Fechar compra
+2021-12-06 11:53:21 INFO  _004CompraBoletoBancarioVeja:127 - ***** End LOG4J *****
+
+2021-12-06 11:53:30 INFO  ReportLog:115 - ***** Start LOG4J *****
+2021-12-06 11:53:30 INFO  ReportLog:120 - Caso de Teste: _005LoginOrgBlockFechadoWEB  |   Colaborador: A515360  |   Browser: chrome  |   Versão: 96.0.4664.45  |   S.O: Windows 7
+2021-12-06 11:54:00 INFO  _005LoginOrgBlockFechadoWEB:48 - Acessa a URL https://veja.abril.com.br/esporte/denarc-tem-as-fitas-contra-edinho/
+2021-12-06 11:54:00 INFO  _005LoginOrgBlockFechadoWEB:48 - Realiza a ação 'Mouse Scroll' de cima para baixo na página
+2021-12-06 14:27:21 INFO  ReportLog:115 - ***** Start LOG4J *****
+2021-12-06 14:27:21 INFO  ReportLog:120 - Caso de Teste: _003CompraDebitoAutomaticoVeja   |   Colaborador: A515360  |   Browser: chrome  |   Versão: 96.0.4664.45  |   S.O: Windows 7
+2021-12-06 14:27:27 INFO  _003CompraDebitoAutomaticoVeja:48 - Acessa a URL https://veja.abril.com.br//
+2021-12-06 14:27:29 INFO  _003CompraDebitoAutomaticoVeja:48 - Clica no elemento Aceito Cookies
+2021-12-06 14:27:29 INFO  _003CompraDebitoAutomaticoVeja:48 - Realiza a ação 'Mouse Scroll' de cima para baixo na página
+2021-12-06 14:28:05 INFO  _003CompraDebitoAutomaticoVeja:48 - Preenche o campo de texto Iserir Nome Completo com o valor Wellington Tester
+2021-12-06 14:28:07 INFO  _003CompraDebitoAutomaticoVeja:48 - Preenche o campo de texto Inserir Email com o valor tester@abril.com.br
+2021-12-06 14:28:19 INFO  _003CompraDebitoAutomaticoVeja:48 - Preenche o campo de texto Nome do titular da conta com o valor Wellington Tester
+2021-12-06 14:28:21 INFO  _003CompraDebitoAutomaticoVeja:48 - Seleciona o texto Banco Itaú no elemento Banco Itaú
+2021-12-06 14:28:23 INFO  _003CompraDebitoAutomaticoVeja:48 - Preenche o campo de texto Agencia com o valor 8726
+2021-12-06 14:28:26 INFO  _003CompraDebitoAutomaticoVeja:48 - Preenche o campo de texto Conta com o valor 542569
+2021-12-06 14:28:30 INFO  _003CompraDebitoAutomaticoVeja:48 - Clica no elemento Fechar compra
+2021-12-06 14:28:34 INFO  _003CompraDebitoAutomaticoVeja:127 - ***** End LOG4J *****
+
+2021-12-06 14:28:49 INFO  ReportLog:115 - ***** Start LOG4J *****
+2021-12-06 14:28:49 INFO  ReportLog:120 - Caso de Teste: _004CompraBoletoBancarioVeja  |   Colaborador: A515360  |   Browser: chrome  |   Versão: 96.0.4664.45  |   S.O: Windows 7
+2021-12-06 14:28:53 INFO  _004CompraBoletoBancarioVeja:48 - Acessa a URL https://veja.abril.com.br//
+2021-12-06 14:28:56 INFO  _004CompraBoletoBancarioVeja:48 - Clica no elemento Aceito Cookies
+2021-12-06 14:28:56 INFO  _004CompraBoletoBancarioVeja:48 - Realiza a ação 'Mouse Scroll' de cima para baixo na página
+2021-12-06 14:29:19 INFO  _004CompraBoletoBancarioVeja:48 - Preenche o campo de texto Iserir Nome Completo com o valor Wellington Tester
+2021-12-06 14:29:22 INFO  _004CompraBoletoBancarioVeja:48 - Preenche o campo de texto Inserir Email com o valor tester@abril.com.br
+2021-12-06 14:29:39 INFO  _004CompraBoletoBancarioVeja:48 - Clica no elemento Fechar compra
+2021-12-06 14:29:43 INFO  _004CompraBoletoBancarioVeja:127 - ***** End LOG4J *****
+
+2021-12-06 14:29:59 INFO  ReportLog:115 - ***** Start LOG4J *****
+2021-12-06 14:29:59 INFO  ReportLog:120 - Caso de Teste: _005LoginOrgBlockFechadoWEB  |   Colaborador: A515360  |   Browser: chrome  |   Versão: 96.0.4664.45  |   S.O: Windows 7
+2021-12-06 14:30:30 INFO  _005LoginOrgBlockFechadoWEB:48 - Acessa a URL https://veja.abril.com.br/esporte/denarc-tem-as-fitas-contra-edinho/
+2021-12-06 14:30:30 INFO  _005LoginOrgBlockFechadoWEB:48 - Realiza a ação 'Mouse Scroll' de cima para baixo na página
+2021-12-06 14:30:52 INFO  _005LoginOrgBlockFechadoWEB:48 - Valida que o texto Se já é assinante, entre aqui. esteja presente no elemento By.xpath: //*[@id='injected-paywall_info']/a
+2021-12-06 14:30:59 INFO  _005LoginOrgBlockFechadoWEB:48 - Clica no elemento Entre aqui.
+2021-12-06 14:31:02 INFO  _005LoginOrgBlockFechadoWEB:48 - Preenche o campo de texto Usuario com o valor thais.rocha@abril.com.br 
+2021-12-06 14:31:04 INFO  _005LoginOrgBlockFechadoWEB:48 - Preenche o campo de texto Senha com o valor 36924337864
+2021-12-06 14:31:17 INFO  _005LoginOrgBlockFechadoWEB:48 - Clica no elemento Aceito Cookies
+2021-12-06 14:31:17 INFO  _005LoginOrgBlockFechadoWEB:127 - ***** End LOG4J *****
+
